@@ -24,7 +24,6 @@ Cleaning Steps Performed
 - Replaced empty strings with NULL
 - Forward-filled missing industry values using company-based joins
 - Identified companies without a second row (e.g., Bally’s)
-
 5. Row & Column Cleanup
 - Deleted rows where both total_laid_off AND percentage_laid_off were NULL
 - Dropped the temporary row_num column
