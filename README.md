@@ -82,7 +82,7 @@ Layoffs Data Cleaning.sql — complete cleaning script
 
 Layoffs Exploratory Data Analysis.sql — EDA queries
 
-Project Background
+#### Project Background
 
 This project is part of a SQL course which features beginner, intermediate and advanced SQL, put into practice with the Data Cleaning and Exploratory Data Analysis projects found in this GitHub repository. 
 
