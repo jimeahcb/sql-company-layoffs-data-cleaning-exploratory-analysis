@@ -60,19 +60,26 @@ After cleaning, EDA was performed on the finalized table layoffs_staging2 to ide
 ## Key Insights
 🔹 Peak Month for Layoffs
 January 2023 saw the highest layoffs across all companies with 84,714 employees laid off.
+
 🔹 Industries Hit the Hardest
 Consumer, Retail, Other, and Transportation all saw between 33,000 and 45,200 employees laid off over ~3 years.
+
 🔹 Countries with the Highest Layoff Totals
 The United States has laid off the highest amount of workers with over six times more than the second-leading country, India. 
+
 🔹 Companies with the Most Layoffs
 Amazon, Google, and Meta laid off the most employees with other 11,000 total.
+
 🔹 Trend Over Time
 Layoffs increased significantly between 2022 and 2023.
 
 ## Files Included
 layoffs.csv — raw dataset 
+
 layoffs_staging_table.csv - cleaned dataset 
+
 Layoffs Data Cleaning.sql — complete cleaning script
+
 Layoffs Exploratory Data Analysis.sql - EDA queries
 
 📞 Contact If you'd like to learn more about this project or view similar work, feel free to reach out or explore additional repositories on www.jimeahclariz.com or www.github.com/jimeahcb
