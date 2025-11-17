@@ -76,10 +76,10 @@ Layoffs increased significantly between 2022 and 2023.
 ## Files Included
 layoffs.csv — raw dataset 
 
-layoffs_staging_table.csv - cleaned dataset 
+layoffs_staging_table.csv — cleaned dataset 
 
 Layoffs Data Cleaning.sql — complete cleaning script
 
-Layoffs Exploratory Data Analysis.sql - EDA queries
+Layoffs Exploratory Data Analysis.sql — EDA queries
 
 📞 Contact If you'd like to learn more about this project or view similar work, feel free to reach out or explore additional repositories on www.jimeahclariz.com or www.github.com/jimeahcb
